@@ -1,2 +1,2 @@
 # RK3588_AR_Glasses
-project repository for Embedded System Competition
+This is the public project repository for Embedded System Competition
